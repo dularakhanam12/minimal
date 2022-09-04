@@ -1,6 +1,17 @@
 title: Dulara khanam
 logo: /assets/img/dulara.jpg
-description: Dulara khanam GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/dularakhanam12">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
